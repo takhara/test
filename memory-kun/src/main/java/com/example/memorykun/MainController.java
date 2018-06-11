@@ -258,7 +258,7 @@ public class MainController {
 
         return "redirect:/memory-kun";
     }
-
+apkapkvpkapvkpav
     @PostMapping("/current/subject")
     public String currentSubject(CurrentSubjectForm form, RedirectAttributes attr) {
 
